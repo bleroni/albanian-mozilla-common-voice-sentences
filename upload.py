@@ -49,13 +49,9 @@ while sentences:
     sentence = sentences.pop(0)
     print(f"Processing sentence {count}: {sentence}")
     resp = post_request_to_mozilla(sentence)
-    if resp == 'success':
-      successful_requests.append(sentence)
-      save_list_to_file(successful_requests, 'temp_folder/successful_requests.txt')
-    else: 
-      # failed_requests.append(sentence)
-      # save_list_to_file(failed_requests, f'temp_folder/failed_requests/{resp}.txt')
-      with open(f'temp_folder/failed_requests/{resp}.txt', 'a') as file1:
-        file1.write(sentence)
+    
+    if resp != 'success':
+        with open(f'temp_folder/failed_requests/{resp}.txt', 'a') as file1:
+          file1.write(sentence)
 
     time.sleep(2)    
