@@ -33,8 +33,9 @@ def save_list_to_file(list_of_strings, file_path):
         for item in list_of_strings:
             file.write(f"{item}\n")
 
-# new_filename = copy_file('clean_files/copa_2_bleron.txt', 'temp_folder/copa_2_bleron.txt')
-new_filename = 'temp_folder/copa_2_bleron.txt'
+target_file = 'copa_4_kushtrim.txt'
+# new_filename = copy_file(f'clean_files/{target_file}', f'temp_folder/{target_file}')
+new_filename = 'temp_folder/copa_4_kushtrim.txt'
 sentences = open(new_filename, 'r').readlines()
 
 # sentences = ['Kjo fjale eshte me iniciale I.L. dhe R.A. nder te tjera', 'Kjo fjali është shumë e thjeshtë.', 
