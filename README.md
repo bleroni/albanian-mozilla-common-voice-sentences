@@ -3,7 +3,7 @@ Instructions are in Albanian language, please find English below
 
 Udhëzimet për insertimin e tekstit në gjuhën Shqipe në Mozilla Common Voice
 
-1. Nuk lejohet perdorimi i emrave origjinal të personave, gjithmonë duhet të ndërrohet emri në emër tjetër të rëndomtë
+1. Nuk lejohet perdorimi i emrave origjinal të personave, gjithmonë duhet të ndërrohet emri origjinal në emër tjetër të rëndomtë
 2. Nuk lejohen fjalitë me më shumë se 15 fjalë
 3. Nuk lejohen inicialet, si psh. "I.L." apo "I L", apo "Il"
 4. Nuk lejohen akronime, psh. "AKP" ose tekste me shkronja të mëdha, psh: "LIROHET nga detyra..."
