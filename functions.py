@@ -51,35 +51,42 @@ def copy_file(source_path, destination_path):
     print(f"File {source_path} has been copied to {destination_path}")
     return destination_path
 
-def fix_split_word(input_text, output_text):
+def fix_words(input_text):
     pairs = [
-        (" aditur", "paditur"),
-        (" jyk at", "gjyk at"),
-        (' randaj', 'prandaj'),
+        (' aditur', ' paditur'),
+        (' jyk at', ' gjykat'),
+        ('katë s', 'katës'),
+        (' randaj', ' prandaj'),
+        ('k undër', 'kundër'),              
+        (' ëmtuar', ' dëmtuar'),
+        (' kuzuar', ' akuzuar'),
+        (' ropoz', ' propoz'),
+        (' andehur', ' pandehur'),
+        (' utorizuar', ' autorizuar'),
+        (' ёrk', ' kërk'),
+        ('nk esë', 'nkësë'),
+        ('pë r', 'për'),
+        ('mj et', 'mjet'),
+        ('II',''),
+        ('III',''),
+        ('[',''),
+        (']',''),
+        ('(',''),
+        (')',''),
+        ('“',''),
+        ('‘',''),
+        ('”',''),
+        ('’',''),
+        ('AKP', 'Akp'),
+        ('OAK', 'Oak'),
         (' DPZ', ''),
         (' SHPK',''),
         (' TVSH', ''),
-        (' ëmtuari', 'dëmtuari'),
-        (' kuzuari', 'akuzuari'),
-        (' ropozon', 'propozon'),
-        (' andehuri', 'pandehuri'),
+        (' NTP', ''),                  
     ]
-    return "split word"
 
+    for pair in pairs:
+        input_text = input_text.replace(pair[0], pair[1])
 
-def fix_abbreviations(input_text, output_text):
-    # AKP
-    pairs = [
-        ("AKP", "Agjencia Kosovare e Privatizimit"),
-        ("OAK", "Oda e Avokatëve të Kosovës"),
-    ]
-    pass
+    return input_text
 
-
-def fix_abbreviations_reges(input_text, output_text):
-    # AKP
-    pairs = [
-        ("AKP", "Agjencia Kosovare e Privatizimit"),
-        ("OAK", "Oda e Avokatëve të Kosovës"),
-    ]
-    pass
