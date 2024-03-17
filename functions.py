@@ -60,6 +60,8 @@ def fix_words(input_text):
         (' SHPK',''),
         (' TVSH', ''),
         (' NTP', ''),
+        ("AKP", "Akp"),
+        ("OAK", "Oak"),        
         (' ëmtuar', ' dëmtuar'),
         (' kuzuar', ' akuzuar'),
         (' ropoz', ' propoz'),
@@ -84,19 +86,3 @@ def fix_words(input_text):
 
     return input_text
 
-
-def fix_abbreviations(input_text, output_text):
-    pairs = [
-        ("AKP", "Akp"),
-        ("OAK", "Oak"),
-    ]
-    pass
-
-
-def fix_abbreviations_reges(input_text, output_text):
-    # AKP
-    pairs = [
-        ("AKP", "Agjencia Kosovare e Privatizimit"),
-        ("OAK", "Oda e Avokatëve të Kosovës"),
-    ]
-    pass
