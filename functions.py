@@ -53,20 +53,29 @@ def copy_file(source_path, destination_path):
 
 def fix_words(input_text):
     pairs = [
-        (" aditur", "paditur"),
-        (" jyk at", "gjyk at"),
-        (' randaj', 'prandaj'),
+        (" aditur", " paditur"),
+        (" jyk at", " gjykat"),
+        (' randaj', ' prandaj'),
         (' DPZ', ''),
         (' SHPK',''),
         (' TVSH', ''),
         (' NTP', ''),
-        (' ëmtuari', 'dëmtuari'),
-        (' kuzuari', 'akuzuari'),
-        (' ropozon', 'propozon'),
-        (' andehuri', 'pandehuri'),
+        (' ëmtuar', ' dëmtuar'),
+        (' kuzuar', ' akuzuar'),
+        (' ropoz', ' propoz'),
+        (' andehuri', ' pandehuri'),
+        ('  utorizuar', ' autorizuar'),
+        ('  ёrk', ' kërk'),
         ('II',''),
-        ('III','')
-
+        ('III',''),
+        ('[',''),
+        (']',''),
+        ('(',''),
+        (')',''),
+        ('“',''),
+        ('‘',''),
+        ('”',''),
+        ('’',''),
     ]
 
     for pair in pairs:
