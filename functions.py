@@ -51,7 +51,7 @@ def copy_file(source_path, destination_path):
     print(f"File {source_path} has been copied to {destination_path}")
     return destination_path
 
-def fix_split_word(input_text, output_text):
+def fix_words(input_text):
     pairs = [
         (" aditur", "paditur"),
         (" jyk at", "gjyk at"),
@@ -59,19 +59,27 @@ def fix_split_word(input_text, output_text):
         (' DPZ', ''),
         (' SHPK',''),
         (' TVSH', ''),
+        (' NTP', ''),
         (' ëmtuari', 'dëmtuari'),
         (' kuzuari', 'akuzuari'),
         (' ropozon', 'propozon'),
         (' andehuri', 'pandehuri'),
+        ('II',''),
+        ('III','')
+
     ]
-    return "split word"
+
+    for pair in pairs:
+        input_text = input_text.replace(pair[0], pair[1])
+
+
+    return input_text
 
 
 def fix_abbreviations(input_text, output_text):
-    # AKP
     pairs = [
-        ("AKP", "Agjencia Kosovare e Privatizimit"),
-        ("OAK", "Oda e Avokatëve të Kosovës"),
+        ("AKP", "Akp"),
+        ("OAK", "Oak"),
     ]
     pass
 
