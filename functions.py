@@ -62,6 +62,7 @@ def fix_split_word(input_text, output_text):
         (' ëmtuari', 'dëmtuari'),
         (' kuzuari', 'akuzuari'),
         (' ropozon', 'propozon'),
+        (' andehuri', 'pandehuri'),
     ]
     return "split word"
 
