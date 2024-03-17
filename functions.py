@@ -53,21 +53,20 @@ def copy_file(source_path, destination_path):
 
 def fix_words(input_text):
     pairs = [
-        (" aditur", " paditur"),
-        (" jyk at", " gjykat"),
+        (' aditur', ' paditur'),
+        (' jyk at', ' gjykat'),
+        ('katë s', 'katës'),
         (' randaj', ' prandaj'),
-        (' DPZ', ''),
-        (' SHPK',''),
-        (' TVSH', ''),
-        (' NTP', ''),
-        ("AKP", "Akp"),
-        ("OAK", "Oak"),        
+        ('k undër', 'kundër'),              
         (' ëmtuar', ' dëmtuar'),
         (' kuzuar', ' akuzuar'),
         (' ropoz', ' propoz'),
-        (' andehuri', ' pandehuri'),
-        ('  utorizuar', ' autorizuar'),
-        ('  ёrk', ' kërk'),
+        (' andehur', ' pandehur'),
+        (' utorizuar', ' autorizuar'),
+        (' ёrk', ' kërk'),
+        ('nk esë', 'nkësë'),
+        ('pë r', 'për'),
+        ('mj et', 'mjet'),
         ('II',''),
         ('III',''),
         ('[',''),
@@ -78,11 +77,16 @@ def fix_words(input_text):
         ('‘',''),
         ('”',''),
         ('’',''),
+        ('AKP', 'Akp'),
+        ('OAK', 'Oak'),
+        (' DPZ', ''),
+        (' SHPK',''),
+        (' TVSH', ''),
+        (' NTP', ''),                  
     ]
 
     for pair in pairs:
         input_text = input_text.replace(pair[0], pair[1])
-
 
     return input_text
 
