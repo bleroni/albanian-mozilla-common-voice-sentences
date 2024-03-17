@@ -59,6 +59,9 @@ def fix_split_word(input_text, output_text):
         (' DPZ', ''),
         (' SHPK',''),
         (' TVSH', ''),
+        (' ëmtuari', 'dëmtuari'),
+        (' kuzuari', 'akuzuari'),
+        (' ropozon', 'propozon'),
     ]
     return "split word"
 
@@ -67,6 +70,7 @@ def fix_abbreviations(input_text, output_text):
     # AKP
     pairs = [
         ("AKP", "Agjencia Kosovare e Privatizimit"),
+        ("OAK", "Oda e Avokatëve të Kosovës"),
     ]
     pass
 
@@ -75,5 +79,6 @@ def fix_abbreviations_reges(input_text, output_text):
     # AKP
     pairs = [
         ("AKP", "Agjencia Kosovare e Privatizimit"),
+        ("OAK", "Oda e Avokatëve të Kosovës"),
     ]
     pass
