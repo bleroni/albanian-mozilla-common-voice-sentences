@@ -1,8 +1,43 @@
 import shutil
 import os
+import requests
+
 
 from dotenv import load_dotenv
 load_dotenv()
+
+
+def save_list_to_file(list_of_strings, file_path):
+    """
+    Saves a list of strings to a file, with each string on a new line.
+    
+    :param list_of_strings: List of strings to be saved.
+    :param file_path: The path of the file where the list will be saved.
+    """
+    with open(file_path, 'w') as file:
+        for item in list_of_strings:
+            file.write(f"{item}\n")
+
+def post_request_to_mozilla(sentence, count):
+    # Define the URL and API endpoint
+    url = 'https://commonvoice.mozilla.org/api/v1/sentences'
+    headers = get_headers()
+    payload = get_payload(sentence)
+    response = requests.post(url, headers=headers, json=payload)
+    if response.ok:
+        print('Response successful:', response.text)
+        return 'success'
+    else:
+        print(str(count) + ': XXXXXXXX Request failed in text: ' + sentence)
+        print('Status code:', response.status_code)
+        json_resp = response.json()
+        print(json_resp)
+        
+        if json_resp.get('errorType') is not None:
+            return json_resp['errorType']
+        else:
+            return 'APPLICATION_500_ERROR'    
+
 
 def get_payload(sentence):
   payload = {
