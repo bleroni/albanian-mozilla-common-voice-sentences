@@ -1,4 +1,3 @@
-import requests
 import time
 from functions import copy_file, post_request_to_mozilla
 
@@ -15,7 +14,7 @@ while sentences:
     count += 1
     sentence = sentences.pop(0)
     print(f"Processing sentence {count}: {sentence}")
-    resp = post_request_to_mozilla(sentence)
+    resp = post_request_to_mozilla(sentence, count)
     
     if resp != 'success':
         with open(f'temp_folder/failed_requests/{resp}.txt', 'a') as file1:
