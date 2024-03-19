@@ -1,9 +1,9 @@
 import time
 from functions import copy_file, post_request_to_mozilla
 
-target_file = 'copa_8_bleron_editing'
-new_filename = copy_file(f'temp_folder/{target_file}.txt', f'temp_folder/{target_file}_uploading.txt')
-# new_filename = 'temp_folder/copa_4_kushtrim.txt'
+target_file = 'copa_7_kushtrim'
+# new_filename = copy_file(f'temp_folder/{target_file}.txt', f'temp_folder/{target_file}_uploading.txt')
+new_filename = 'temp_folder/copa_7_kushtrim_uploading.txt'
 sentences = open(new_filename, 'r').readlines()
 
 failed_requests = []

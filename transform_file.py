@@ -1,5 +1,6 @@
 from functions import copy_file, fix_words
-new_filename = copy_file(f'clean_files/copa_8_bleron.txt', f'temp_folder/copa_8_bleron_editing.txt')
+target_file = 'copa_7_kushtrim'
+new_filename = copy_file(f'temp_folder/{target_file}.txt', f'temp_folder/{target_file}_transformed.txt')
 
 sentences = open(f'{new_filename}', 'r').readlines()
 modified_sentences = []
