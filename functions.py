@@ -45,7 +45,7 @@ def get_payload(sentence):
         "localeId": 71,
         "localeName": "sq",
         "sentence": sentence,
-        "source": 'KC'  
+        "source": ' '  
     }
   return payload
 
