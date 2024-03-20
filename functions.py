@@ -102,6 +102,7 @@ def fix_words(input_text):
         ('nk esë', 'nkësë'),
         ('pë r', 'për'),
         ('mj et', 'mjet'),
+        ('ajt u', 'ajtu'),
         ('II',''),
         ('III',''),
         ('[',''),
