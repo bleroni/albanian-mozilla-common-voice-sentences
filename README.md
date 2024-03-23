@@ -11,7 +11,7 @@ Udhëzimet për insertimin e tekstit në gjuhën Shqipe në Mozilla Common Voice
 6. Nuk lejohen simbolet si kllapat, etj., si psh. "personi në fjalë (motra)"
 7. Nuk lejohen fjalë në gjuhët e huaja, vetëm ato shqipe
 
-English text
+English Version\n
 Since this is the first Github project for many of the new contributors, we will manage the files manually, until everyone is comfortable with Github.
 
 Always come here when you need to identify the next file to work on. After you have identified the file, leave a comment here with the filename that you have chosen.
