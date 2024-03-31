@@ -16,7 +16,7 @@ for count, row in enumerate(list_dataset[2000:3000]):
   
   if resp != 'success':
       with open(f'temp_folder/datasets/failed_requests/{resp}.txt', 'a') as file1:
-        file1.write(sentence)
+        file1.write(f"{sentence}\n")
   else:
       with open(f'temp_folder/datasets/kosovo_tenders_successful_requests.txt', 'a') as file2:
         file2.write(f"{sentence}\n")  
