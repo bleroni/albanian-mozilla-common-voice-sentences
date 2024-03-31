@@ -130,3 +130,5 @@ def fix_words(input_text):
 
     return input_text
 
+def get_word_length(input_text: str) -> int:
+    return len(input_text.split(' '))

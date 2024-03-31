@@ -1,7 +1,29 @@
-from functions import fix_words
+from albanian_tools import AlbanianTools
 
-input_string = 'Ndërsa I ëmtuari A, nga Prizreni udhëzohet në kontest të rregullt civil.'
-output_string = fix_words(input_string)
+albanian_tool = AlbanianTools()
 
-print(input_string)
-print(output_string)
+# remove_leading_numbers
+text_1 = "913. Paragraf interesant" # Returns "Paragraf interesant"
+text_1_text_numbers = albanian_tool.remove_leading_numbers(text_1)
+print(f"remove_leading_numbers: {text_1_text_numbers}")
+
+# replace_numbers_with_albanian_text
+text_2 = "Neni 217 kalon tutje." # Returns "Neni dyqind e shtatëmbëdhjetë kalon tutje."
+text_2_text_numbers = albanian_tool.replace_numbers_with_albanian_text(text_2)
+print(f"replace_numbers_with_albanian_text: {text_2_text_numbers}")
+
+# integer_to_albanian_text_converter
+integer_example = 125 # Returns "shtatëqind e shtatëmbëdhjetë"
+integer_example_text_number = albanian_tool.integer_to_albanian_text_converter(integer_example)
+print(f"integer_to_albanian_text_converter: {integer_example_text_number}")
+
+# Random number in Albanian
+print(f"random_albanian_number: {albanian_tool.random_albanian_number()}")
+
+# Random Albanian name
+print(f"random_albanian_name: {albanian_tool.random_albanian_name()}")
+
+print(albanian_tool.placeholder_function())
+
+
+

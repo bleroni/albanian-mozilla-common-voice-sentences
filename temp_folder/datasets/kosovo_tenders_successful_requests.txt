@@ -1,0 +1,816 @@
+0: Furnizim me naftë, për nevojat e kompanisë
+1: Furnizim me Derivate të Naftës
+2: Transportimi i mësimdhënësve udhëtarë në Komunën e Prizrenit
+4: Furnizim me Vajra motorrike
+5: Angazhimi e shërbimeve profesionale për riorganizimin e Trepça nen Administrimin e Akp-se
+0: Furnizim për Kardiologjinë Invazive Ritender
+1: Ndërtimi i lëshesave pllakore,klladernicë-skenderaj
+2: Ndertimi me elemente betoni i rruges ne fshatin korishë ii komuna prizren
+3: Servisimi dhe mirëmbajtja e automjeteve të mi-së
+4: Furnizimi me ups
+5: Mirëmbajtja dimërore e rrugëve lokale dhe trotuareve në territorin e komunës së vushtrrisë
+10: Furnizim me rrobe dimërore për Departamentin e Inspekcionit në Mi
+11: Sherbime te servisimit te aparateve zjarrfikese
+13: Sigurime të shëndetit në udhëtim
+14: Shërbime për auditimin e projektit Tempus
+15: Ritender ri konstruimi i kulmit të objektit të komandës ferizaj
+16: Furnizimi me pajisje speciale për punë per ekipin e Mirëmbajtjes së Largperçuesve
+17: Ndërtimi i nënkalimit,sojevë-ferizaj
+18: Furnizim me shporta treshe për sistemin e mbeturinave dhe letër tualeti për duar
+19: Mirëmbajtja verore dhe dimërore e rrugëve në teritorin e komunës së deçanit
+20: Furnizim me derivate të naftës ngjashëm me eurodiezel për nevojat e akp-së
+21: Furnizim me rrobe për stafin teknik të kabinetit të ministrit
+22: Furnizimi, me karburante për nevojat e komunës së prizrenit
+23: Auditimi i pasqyrave financiare
+25: Servisimi, mirëmbajtja dhe riparimi i automjeteve
+26: Ndertimi i rruges Siqevë-Sharban-faza e parë
+27: Ndërtimi i urës dhe asfaltimi i rrugës Petro Nini Luarasi
+28: Furnizim me derivate te naftes
+29: Tp dymbëdhjetë Furnizimi i stërvitjet pneumatike Hetimeve dhe pajisjet e lidhura shpimit
+30: Furnizim me reagjent dhe material shpenzues ne Luv
+31: Furnizim me vaksina dhe material shpenzues për departamentin e Shëndetit dhe Mirëqenies se Kafshëve
+32: Furnizim me shtypin ditor
+33: Shërbime të fotokopjimit
+34: Furnizimi me autobus për trafikun urban
+35: Furnizim me motoÇikleta skutera dhe biÇikleta per pk
+36: Furnizimi me analizer biokimik
+38: It Hardware for the Business Continuity Center Bcc
+39: Furnizim me pajisje te Teknologjise Informative
+40: Furnizimi dhe montimi i agregatit për Trainkos Sha
+41: Shëbimet te bufesë për stafin e komunës
+43: Furnizim me Derivate të naftës për nevojat e Krm Uniteti Mitrovicë
+44: Furnizim Tonerë
+45: Instalimi i Grupeve Matëse në kufirin në mes të Kosttkekossh
+46: Sigurimi fizik i objekteve Shtetërorendërtesave Qeveritare
+48: Furmizim me Derivate të Naftës për Nevojat e Komunës së Shtërpcës.
+49: Furnizimi dhe montimin e inventarit per zyre per nevoja te postes se kosoves
+50: Furnizim me valvola dhe filtra
+51: Ndërtimi i objektit të shkollës fillore në sllapuzhan-suharekë
+52: Ndërtimi i qerdhes për fëmijë në qytetin e malishevës
+53: Ftese per certifikim te pajisjeve Stb ne platformen Iptv te Telekomit te Kosoves
+54: Rehabilitation of Water supply system and Expansion of Water Treatmant Plant
+55: Sigurimi I të gjitha automjeteve në pronsi te k.k.Novobërdë
+56: Sigrimi i Automjeteve dhe sigurimi shëndetësor i udhëtimit jashtë vendit
+57: Furnizim me brava,cilindra,dryna për Dpq
+58: Transporti i pacientëve në hemodializë malishevëprizren dhe anasjelltas
+59: Furnizim me derivate të naftës
+60: Furnizim me llamarina të çelikta
+62: Vakumimi, mbushja dhe filtrimi i transformatoreve me vaj izolues
+63: Instalimi i rrjetit të internetit në qkmf dhe pesëmbëdhjetë qmf-të
+64: Pastrimi i hapsirave të brendshme dhe te jashtme të universitetit të prishtinës
+67: Furnizim me produkte konditore
+69: Training of Trainers to support Grant application process
+71: Furnizim me Gas insulated medium voltage switchgear
+72: Akomodimi i studentëve dhe profesorëve gjatë mbajtjes së kursit nga lënda e skijimit
+75: Sherbime për larjen e automjeteve te Ministrisë së Financave
+77: Organizimi i manifestimeve kulturore me rastin e shtatëmbëdhjetë shkurtit, Ditës së Pavarsisë.
+78: Furnizimi me paisje te ndryshme teknike per Rtk: një.dy.tre.katër
+79: Auditimi i pasqyrave financiare të Kur Hidrodrini Sh.A. Pejë
+80: Sigurimi fizike për nevojat e mti-së
+81: Rregullimi dhe mirëmbajtja e objektit te kpm-së
+82: Konstruksione metalike
+83: Furnizim me Karburante
+84: Furnizim me lidhse kabllovike
+85: Renovime dhe ndertime te pergjithshme ne Rtk
+87: Furnizim me mesing dhe bronzë
+89: Furnizimi me koka cilindrike
+93: Shërbime shtypi,botime dhe shërbime tjera
+94: Furnizime me nafte dhe derivate te naftes
+95: Furnizimi me naft për nevojat e veturave në pronësi të institucioneve komunale
+96: Furnizim me pjese elektrike
+97: Shërbime të botimit të gazetës zyrtare & botime tjera
+99: Furnizim me material trajnimi për qendrat e aftësimeve profesionale llot-një llot-dy
+0: Sanimi i urës mbi lumin drini i bardhë në kramovik
+1: furnizim me goma per makineri te rende te kmdk-se
+2: sigurimi i automjeteve tpl-tpl-kasko
+3: Shërbimi dhe mirmëbajtja e softuerit
+4: Kompletimi i laboratorit-puntorisë për testimin e pajisjeve telekomunikuese
+5: Shërbime të shtypjes dhe shërbime tjera
+6: Furnizim me gypa dhe pjese për gypa te zjarrfikëseve
+7: Furnizimi me pompa zhytse
+8: Furnizim me Materjal Zyrtar
+9: Mystery Shopping Services and Customer Focus Group
+10: Furnizim me shamot
+12: Furnizim me Certifikata te Gjendjes Civile
+13: Furnizim me licenca te McAfee
+14: Furnizimi me auto pjesë për nevojat e Krm Pastërtiash.a.-Ferizaj
+17: Furnizim me pajisje speciale per pk
+19: Furnizimi me derivate te naftes per te gjitha njesite shpenzuese te komunes
+20: Furnizimi me nxemsa telor
+22: Blade Server and Storage
+23: Furnizim e tridhjetë e tetë veturave me nafte
+24: Furnizim me material informatik
+25: Shërbime të shtypjes,marketingut ,dhe shërbime tjera.
+26: Furnizim me naftë dhe derivate të naftës
+28: Huazimi i pajisjeve për zërim & përkthim simultan.
+29: Furnizim me artikuj ushqimorë dhe sanitarë për të gjitha njësitë shpenzuese
+30: Sigurimi i automjeteve zyrtare
+32: Furnizim me nje automjet per bartjen e automjeteve
+35: Furnizim me pjese jakne
+37: Furnizim me rezistora për dpq-bardh
+39: Shërbime të servisimit të automjeteve.
+40: Vendosja e parketit dhe furnizim me paisje sportive në palestrën sportive në kastriot
+41: Shërbimet e veterinareve ne terren
+42: Furnizim me time space dhe manager
+45: Furnizim me Acetilen,Oksigjen dhe Gaz Butan
+46: Furnizim me material për zyra për Komunën e Shtërpcë
+48: Pastrimi i hapsirave te mbrendshmedhe te jashtme te objektit te spitalit
+49: Sigurimi fizik i objektit te spitalit
+50: Furnizim me materjal fazonik per rrjetin e ujit dhe kanalizimit
+54: Sigurimi fizik i objekteve të Trainkos Sha
+55: Furnizim me Naftë dhe derivate të naftës
+56: Furnizim me mobilje për nevojat e kurp-se
+57: Riparcializimi i zonës së industrisë së lehtë në prizren
+58: Shërbime për auditimin e projektit tempus
+59: Furnizim me laptop
+60: Ri-tenderAuditimi i pasqyrave financiare të Kur Hidrodrini Sh.A. Pejë
+64: Furnizim me libra të protokollitritender një
+66: Ekzekutimi i puneve sipas projektit per renovim te zyrave ne Bqk
+68: Furnizim me Pc dhe Printer
+70: Furnizim me artikuj ushqimor
+72: Furnizim i bujqeve me impute bujqesore
+74: Furnizim me derivate të naftës për Institucionet komunale
+75: Furnizim me pompë furnizuese te kaldajes dhe demontimi remontimimodifikimi montimi i pompes furnizuese
+76: Furnizim me material për mirëmbajtjen e institucioneve komunale
+78: Furnizim me inventar
+79: Ndertimi i rrugës, pozharëdashinoc
+81: Furnizimi me ups modular
+88: Shërbimet e Sigurimit shëndetësor për punëtoret Kek sh.a
+90: Asgjësimi i materialit sensitiv të zgjedhjeve lokale 
+92: Shërbime për larjen e automjeteve te Ministrisë së Financave
+94: Furnizim me reagensa per laboratorlot ii,iii
+95: Furnizim me mish
+97: Lot dy-furnizimi me pompa drenimit
+98: Furnizim me telefona mobil për nevoja të gjkk-së
+99: Kalibrimi dhe servisimi i instrumenteve të laboratorëve të akf-së
+Furnizim me bateri akumuluese
+Furnizim dhe mirembajtje te aparateve kunder zjarrit
+Dislokimi i kontenjereve me burime radioaktive
+Furnizimi me fidane molle per farmer në fshatra Skenderaj
+Furnizim me Tonera
+Projektimi i rrjetit te ri per uje te pishem -tcb
+Furnizim me material per sistemin e thengjillit për Dpq
+Renovimi i Objektit të Postës në Mitrovicë
+Furnizim me paisje te teknologjisë informative
+Pastrimi i mbetjeve ndërtimore gjatë vitit 
+Furnizim me paisje për prerje rrethore për dpq-separacioni
+Pastrimi rrugëve lokale nga bora në komunën e malishevës
+Furnizim me libra protokolli
+Rivitalizim i i sheshit të lidhjes së prizrenit në prizren
+Dizajnimi i uniformes zyrtare te Doganes se Kosoves
+Furnizim me kafe caj dhe material percjelles
+Furnizim, instalimi dhe mirembajtja e Cctv Ip kamerave
+Furnizimi me material promovues për universitetin veror 
+Organizimi i manifestimeve kulturore me rastin e shtatëmbëdhjetë shkurtit, Ditës së Pavarsisë
+Sherbime të transportit ajror
+Furnizim me material ndërtimor dhe dyer plastike
+Furnizim me derivate
+Furnizim me ushqim dhe pije
+Mirëmbajtja e ndriçimit publik në territorin e komunës së ferizaj
+Furnizim me gazeta ditore për akk-në
+Furnizim me tonerë
+Shërbime te parkingut për automjete te zyrtarëve komunal
+Furnizim me pajisje te printimit dhe makina per butone
+Furnizim me makina per procesim kartemonedhash
+Furnizim dhe instalim i dyerve rreshqitese automatike
+Furnizim me rrotulla bartese te çelikut dhe te gomes
+Mirëmbajtja "Gold Support" për "McAfee total Protection for Secure Business
+Furnizim me Kamiona
+Rrënimi i objekteve pa leje
+Furnizim me farë misri për nevoja të drejtoratit të bujqësisë
+Hartimi i projekteve për nevojat e Drejtorisë së shërbimeve publike në Prizren
+Furnizim me Material Zyrtar
+Furnizim me material higjenik
+Riparimi i ashensorit ne bllokun A pesë
+Shtypje dizajnim, filmim dhe përkthimi i materialeve të Mpms
+Sanimi i urës ne transitin e pejes , lumbardhë
+Furnzim me material të shtypshkronjes
+Rehabilitimi i stabilimenteve të tl në ns prizreni tre
+Pune shtese: rehabilitimi i stabilimenteve të tl në ns gjakova dy
+Shërbimet e mirëmbajtjes së objektit të mare me qira nga mf
+Sigurimi fizik i objektit te kpm-së
+Zgjerimi i rrjetit optik per parapaguesit e ri-qmi i perseritur
+Sigurimi kasko dhe kontrollimi teknik i automjeteve
+Kryerja e sherbimeve te internetit mf
+Sherbime te bufes për stafin e komunës
+Furnizim me lopë qumështore lot iii
+Furnizimi me pajisje për sistemin e ngrohjes në institucionet shkollore
+Furnizim me shufra dhe profile të çelikta
+Rregullimi -zgjerimi i infrastrukturës ne Departamentin e Mjekësisë Ligjore
+Shpallje dhe publikime në Gazeta Ditore për nevojat e Komunes
+Sigurimi i parave prones dhe veturave te Bankes
+Furnizim me pajisje te Teknologjise Informative dhe licenca
+Furnizim me mbajtës te ruleve
+Furnizim me shirit dhe fshisa gome
+Rimbështjellja e elektromotorit  kW;  V për pompa furnizuese në Tc B
+Furnizim me rere
+Servisimi dhe mirëmbajtja e Automjeteve te Ministrisë se Drejtësisë në Prishtinë md, Shkk, Aapsk.
+Furnizimi me medalje
+Furnizimi me peshore Elektronike me kapacitet min gjashtëdhjetë Ton
+furnizim me uniforma solemne dhe te punës për personelin e fsk-se
+Asfaltimi i rrugëve në fshatin klinë e ulët
+sigurimi tpl, tpl plus dhe full kasko -eu për nevoja të gjkk-së
+Furnizim me inventar per zyre të kmdk-së
+Furnizim me naftë
+Furnizim me motor të përdorur të kamionit man tetëmbëdhjetë.dyqind e njëzet e dy
+Ridizajnimi dhe mirëmbajtja e web-faqes se iber lepenc-it
+Meliorimi kultivimi i livadheve dhe kullosave
+Furnizimi dhe montimi me sportele dhe inventar
+Furnizim me gypa dhe kthesa te çelikta
+Punimi i shtëpizave montuese për qen
+Shërbime te përgatitjet dhe furnizimit me ushqim për punëtoret e kek sha
+Akomodimi i studentëve dhe profesorëve gjatë mbajtjes së kursit nga lënda e skijimit.
+Furnizimi me pajisje të ti ask
+Sigurimi i veturave në pronsi te k.k.novobërdë
+Furnizim me acetilen,oksigjen dhe gaz butan
+Përkthimi i materialeve nga gj.shqipe në gj.angleze dhe anasjelltas.
+Furnizim me valvula për dpq
+Furnizim me naftë dhe derivate të naftës për nevoja të spitalit rajonal-mitrovicë
+Shërbimet e internetit për shkollat e komunës së vitisë
+Furnizimi me paisje te ndryshme teknike per rtk: një.dy.tre.katër
+Mirëmbajtja e ngrohjes qendrore në institucionet komunale
+Thirrje per aplikimper pagesa direkte per kulturat bujqesore grure, miser, lulediell dhe fare gruri
+Furnizim me material shpenzues per lidhjen e paraverollne
+Thirrje per aplikimSektori i Qumeshtit, Mishit dhe Vezeve
+Skema nacionale e granteve per ujitjen e tokave bujqesore
+Furnizim me analizer biokimik
+Shërbime të telefonise mobile gsm
+Furnizim me vida poliaxiale
+Ndertimi i serave per bujqë
+Furnizim me jogurt per nevoja te Menses se Qendres se Studenteve
+Furnizimi me material higjenik per qirskp-shtime
+Furnizim per zyre dhe aparat per fotokopje per qirskp-shtime
+Epc kontratë për ndërtimin e autostradës prishtinë-hani i elezit, rruga gjashtë
+Renovimi i dhomes ne shmfu rasim kiqinadrenas
+Furnizim me brava,cilindra,dryna për dpq
+Titulli: furnizim me shërbime dhe pajisje te it
+Mirëmbajtja dhe servisimi i fotokopjes
+Rërë e kuarcit për filtra
+Shërbimet e transportit të automjeteve me Automerimangë
+Furnizim me reagjent dhe material shpenzues ne Luv Ritender
+Furnizim me Citostatik nga Lista Esenciale lloti dy
+Blerje te ndryshme per vitin 
+Dekorimi i qytetit me rastin e festave shtetërore gjatë vitit
+Furnizim me pjesë për frysa të blozes
+Furnizim me pjesë rezerve për armature dhe skara
+servisimi dhe mirëmbajtja e aparatit fabius gs-ce dhe respiratoreve te tipit drager savina
+Furnizim me Tonerë për nevojat e M.i
+Asfaltimi i rrugëve në fshatin likoshan, godanc dhe polluzhë
+Rrenimi dhe demolimi i objekteve pa leje
+Furnizimi me tonere
+Furnizim me Oksigjen dhe azot oksidul për nevojat e Spitalit Rajonal-Mitrovicë
+Furnizimi dhe Montimi me Sportele dhe Inventar- Ritenderim
+Ndërtimi i njëzet e pesë serrave me participim në Komunën e Prizrenit
+Eliminimi i qenve endacak në Komunën e Prizrenit
+Shërbimet e shtypjes se materialeve promovuese
+Furnizim me llaptopa
+Furnizim me pompa nxemjes dhe hidrantit
+Furnizim me bosht per kushinete te dyfisht te mullirit
+Mirëmbajtjen të regjistrit elektronik te pengut
+Ofrimi i sherbimeve per pregaditjen e ushqimit per klietet e qirskp-shtime
+Furnizim me dru per djegeje dhe prerja e tyre qirskp-shtime
+Furnizimi me material elektrik dhe hidrosanitar per qirskp-shtime
+Rregullimi i veturave të huazuara nga mapl dhe fsk për zgjedhjet lokale 
+Furnizim me shtyp ditor
+furnizim me tavolina,kabinete,sirtar dhe karrige
+Kontrolli,servisimi i aparateve kunder zjarrit dhe shqyrtimi i hidranteve
+Renovimi i objektit të teatrit kombëtar të kosovës
+Ndërtimi i stadiumit të qytetit në deÇan
+Restaurimikonservimi i shtëpisë së katarina josipit në zym të hasit
+Furnizimi me pjese nderrimi per mrrk ne tcb
+Projekti i Efiçiencës së Energjisë dhe Energjisë së Ripërtëritshme në KosovëSpecialist i Mjedisit
+Furnizim me Aparate Fotokopjuese Digjitale me opsion të Printimit dhe të Skanimit
+Servisimi dhe mirmbajtja e e pajisjeve radiologjikeRentgenat e prodhuesit Apelem
+Servisimi dhe mirmbajtja e pajisjes per asgjesimin e mbetjeve mjekesoreImpiantit
+Furnizim me barrna dhe material shpenzues medicinal
+Furnizim me elektro pompa
+Shërbimet e internetit ne Rtk-dy
+Shërbime te dizajnit dhe shtypjes se materialeve te ndryshme
+Furnizim me pajisje te teknologjisë informative.
+Asfaltimi i rrugëve në fshatin dobroshevc unaza dhe lagja avdyli
+Infrastruktura në fshatin fushticë e epërme dhe tërdec
+Furnizim me farë misri për subvencionimin e tetëqind ha në Komunën e Prizrenit
+Sigurimi fizik dhe mirëmbajtja e objekteve të komunës të Prizrenit
+Shpallje dhe publikime në gazeta ditore për nevojat e komunesritender
+Organizimi i manifestimeve kulturore me rastin e shtatëmbëdhjetë shkurtit ditës së pavarësisë
+Furnizim me naftë derivate të naftës
+Ndërtimi i trotuarit në fshatin komoran dhe shtrubullovë
+Furnizim me paisje te teknologjise informative per nevoja te institucioneve te komunes
+Furnizim me Derivate për Policin e Kosovës
+Rregullimi i kanalizimit fekal ne rrugen Shqiperia dhe dy Korriku
+Furnizimi dhe montimi i dyerve ne shkollen Vllezrit frasheri
+Furnizim me Derivate të Naftës për automjete dhe gjeneratorë
+Servisimi dhe furnizimi me pjesë rezervë i pajisjeve të Ti
+Shërbime intelektuale, keshilledhense dhe lobuese
+Furnizim me vajra motorrike.
+Shërbimet e sigurimit shëndetësor
+Blerja e barerave emergjente nga lista vitale
+Furnizim me jakne të pk-së
+ndërimi i dy skenografive në rtk-dy
+Renovimi i pjesës së produksionit në rtk-tre
+mirëmbajtja e ashensorëve në objektin e prokurorisë së shtetit
+Furnizimi dhe montimi i laurës ne parkingun e map
+Shërbime të shtypjes, marketingut & shërbime tjera
+Furnizim me inventar për zyre për nevoja të arkep-it
+Mirëmbajtja verore dhe dimërore e rrugëve në teritorin e Komunës së Deçanit
+Furnizim me tonera
+Furnizim me material shpenzues nga L.e Lot pesë,dhjetë,shtatëmbëdhjetë
+Furnizim me material për Kardiologji Invazive ne Qkuk Lot një
+Blerja e automjetitsherbimet mjekesore primare për Q.k.m.f. Dragash me kilometrazh zero
+Furnizim me Dozatorë rotativ tip Pv katërdhjetë e tre
+Furnizim me reduktor dhe bosht ngasese
+Mbikqyrja e projekteve investive dy lotpjese
+Furnizim me kaseta për mbjelljen e fidanëve
+Hartimi dhe revidimi i projekteve tre lotpjese
+Trajtimi dhe eliminimi i qenëve endacak në territorin e komunës së drenasit
+Sigurimi i ndërtesave qeveritare
+Furnizim me pajisje për rehabilitimin e fidanishtes në Ipk
+Furnizim me reagensa te laboratorit
+Furnizim me vegla dhe pajisje për saldim me autogjen
+Ejektorët dhe hinka për nxmsa të ajrit
+Ndërtimi i objektit të shkollës fillore në fshatin guriq në komunen e malishevës
+Furnizim me naftë për nevojat e kompanisë
+Furnizimi me goma për nevojat e krmpastërtiash.a.-ferizaj
+Pastrimi i automjeteve policoreritender i  pjesa një,katër,pesë
+Furnizim me leter tualeti dhe leter per duar zigzagGreen Cleaning Products
+Furnizim me paisje teknologjike
+Sigurimi fizik i objekteve te Komunes te Ranillug
+Furnizim me valva në sallën e makinave
+Furnizim me sonda për ultrazëra
+Ndërtimi dhe ngritja e miniserrave për minifermerë
+Krijimi i arkivës elektronike-Furnizimi me harduer, kamera, softuer dhe mirëmbajtja e tyre
+Servisimi , mirëmbajtja dhe furnizimi me aparate kunder zjarrit për nevojat e Mpms
+Sigurimi fizik i objekteve te komunes
+Revidimi i projektit detal për qendrën rinore në gjilan
+Furnizimi dhe instalimi i reklamave ndriçuese led për pika te reja shitëse
+Furnizim me derivate te naftës
+Izolim i bazenit
+Auditimi i pasqyrave financiare per vitin 
+Furnizimi me gazra për akf
+Furnizim me kapela për pjestaret e policor të veturave të pk-së
+Furnizim me rrotë për kontejnera
+Furnizim me pjese te ti
+Sigurimi fizik dhe mirëmbajtja e objekteve të Komunës së Prizrenit
+Zhvillimi i softuerit për zgjedhjet e jashtëzakonshme në Mitrovicën e Veriut
+Furnizim me substanca kimike për fidanishten në Ipk
+Lap Topa për nevoja programore në Rtk
+Furnizimi me drunj dekorativ, mbjellja dhe gjelbërimi i hapësirave publike në qytet
+Furnizimi dhe montimi i serave
+Caktimi i kufirit ne Z. V. Kompleksi Memorial Adem Jashari
+Furnizimi me dhjetë serra për fermerët e Komunës së Ferizajt.
+Punët ndërtimore dhe instaluese ne Prokurorinë themelore ne Peje
+Mirëmbajtja dhe Riparimi i Automjeteve të Institucioneve të Komunës së Shtimes
+Furnizimi dhe instalimi i sistemeve për klimatizim për regjionet Ferizaj, Mitrovice, Gjakove dhe Peje
+Pastrimi i objektit
+Larja e automjeteve të mbpzhr-së
+Prodhimi i videospoteve informative për grante dhe subvencione
+Punimi i mureve ndarëse me knauf në objektin e mbpzhr-së
+Shtypja e broshurave mirënjohjeve, banerave etj, për fermerin e vitit 
+furnizim me goma
+Furnizim me bateri akumukuese
+Furnizim me material teknik
+Auditimi i pasqyrave financiare të kur hidrodrini sh.a. pejë
+Furnizimi dhe montimi i laurës në hyrje te parkut gërmia
+Furnizim me barna Emergjente
+Thirrje per aplikimDiversifikimi i fermave dhe zhvillimi i bizneseve
+Incizimi i Strategjisë dhe planit të veprimit në gjuhen e shenjave në Dvd
+Botimi i strategjisë dhe planit të veprimit, në alfabetinBrail
+Furnizim me pjesë rezervë për mullinj
+Ndertimi i objekteve te shkollave : lot një- shkolles perqeve, lot dy- shkolles jashanice
+Instalimi i ngrohjes qendrore ne sh.f. ymer berisha siqeve
+Sherbime te rivorrimit
+Furnizim me Tonerë
+Rehabilitimi i Rrjetit te Ujesjellesit ne rr.Fetah Gega dhe Kadri Nesho
+Punët elektrikë ne ndërtesat regjionale ne Peje ,Ferizaj dhe Mitrovice
+Furnizimi me ujë natyral të pijes
+furnizimi me veturë për zyrtarët e komunës së mamushës
+Ngritja e serave me energji alternative për katër shkollat partnere
+Furnizim dhe montim xhamave ne objektet shkollore dhe institucioneve tjera
+Furnizim me tropicamide
+Furnizim me vida poliaxiale Ritender
+Renovimi i banjove dhe salles ne toskan
+Hartimi i projekteve per disa rruge ne fshatin Bardhosh te Komunes se Prishtines
+Furnizim me material higjenik për Qendren Kryesore të Mjekësisë Familjare
+Publikime dhe shpallje ne shtypin ditor
+Furnizim me material shpenzues për Kliniken e Pulmologjisë
+Projekti i veterinës mobile
+Servisimi i pajisjeve endoskopike
+Furnizim me pajisje të it
+Furnizimi me derivate per qirskp-shtime
+Sigurimi i veturave të mmph-së, për vitin 
+Shtypja e materialeve te ndryshme per nevojat e mpj-se
+Shtypja e moduleve për zhvillimin profesional të mësimdhensve
+Shtypja e raportit të oshp-së , përkthimi dhe lektorimi
+Transporti i pacientave nga hemodializashtime
+Pastrimi i veturave të mmph-së, për vitin 
+Sigurimi i veturave zyrtare te mpj-se
+Furnizim me gloves examination
+Furnizim me matrial shpenzues per zyre
+Huazimi i pajisjeve për zërim & përkthim simultan
+Mirembajtja e antenave
+Udhëtimi i delegacionit të komunës për bursa të turqisë
+Furnizim me mjete piroteknike
+Furnizim me orendi për zyre
+Furnizim me fishekzjarre për nder të ditës së pavarësisë 
+Servisimi i Fotokopjeve te Ministrisë së Drejtesisë
+Shërbimet e Sigurimit Fizik te Objekteve te Kostt sh.a
+Sigurimi i automjeteve
+Furnizimi dhe mirëmbajtja e vulave- ritender një
+Furnizim me ndresa dhe Çorapë per pk-en
+Kamion cistern per grumbullim te qumeshtit
+Meliorimi i livadheve dhe kullosave
+Sherbime te transportit te xehes
+Furnizim me zingjir llamellor
+Furnizim me bulldozhera
+Servisimi i Fotokopjeve te Ministrisë së DrejtesisëRitender
+Mirëmbajtja e objekteve të Komunës së Gjakovës
+Asfaltimi i pesë  pesë  rrugëve lokale në zona rurale
+Asfaltimi i rrugës Ismail QemaliBedri Pejani
+Furnizimi me material Ortoprotetik
+Furnizimi me material shpenzues zyrtarë për nevoja te Institucioneve te Ministrisë se Drejtësisë
+Furnizim me pajisje te It
+Furnizimi me sisteme Ups Rrjeti Qendror
+Furnizim Me Pajisje Për Kontrollim Të DokumenteveVija I dhe Ii
+Furnizim me ujematsa fi dymbëdhjetë
+pune shtesë për renovimin e nyejve sanitare ne kampin vrella
+Hartim projektit detal përndertim i objektit te sherbimit teknik per zyre rajonale në pejë
+Furnizim me paisje të ti-së për nevoja të mbpzhr-së
+Furnizim me material administrativ dhe material te shtypur
+Shtypja e fletëvotimeve për zgjedhjet e jashtëzakonshme në mitrovicën e veriut
+Rregullimi i hapsirave rreth bazenit te spitalit
+Furnizim me cotton wool hydrophilic dhe reinforced tracheal tube
+Shërbime shtypjejo marketingu
+Furnizim me adhesive tape dhe placement unit
+Furnizim me material shpenzues për anjf-në
+Asfaltimi i rruges mirashhadesibovci jug-perendimor dhe riparimi i rruges mirashbardh
+Furnizim me perde per nevojat e mti-se
+Regjistrimi dhe sigurimi i automjeteve te akp-se
+Shërbime te përkthimit për mpj
+Aplikimi i fermereve nga Suhareka per pagesa direkte
+Furnizim me automjet
+Furnizim me puthitësa për armatura
+Punimi i planit emergjent në Tc B
+Furnizim me pompa dhe pjese te pompave
+Renovimi i objektit në të cilen ka qenë e vendosur gjykata komunale në malishevë
+Mirëmbajtja e ndriçimit publik në rrugët e Prishtinës për vitin -lot një & dy
+Hartimi i projekteve ideore dhe kryesore
+Furnizim me farë misri dhe pleh të kombinuar
+Ndërtimi i urës qikatovë e vjetër lagja mehani
+Furnizim me vinÇa hidraulik
+Furnizim me reagjent dhe kite për laboratorin e serologjisë dhe te qumështit ne Auv
+Furnizim me paisje kunder zjarrit
+Sherbimet e Internetit për S.k.gj.k dhe Gjykatat dhe Prokurorit
+Furnizimi me automjet për bartje të pacientëve në hemodializë
+Furnizimi me tonerë dhe drum
+Furnizim me çelik katrorbinar
+Furnizim me Çelës hidraulik
+Pastrimi dhe mirëmbajtja higjenike e objekteve shëndetësore të Kujdesit Primar Shëndetësor në Prishtinë
+Furnizim me toner për mkrs dhe institucionet në vartësi të saj
+Mirëmbajtja e kostt portalit
+Pjesa-ii-ri tender-i-furnizim me material shpenzues mjeksor per autopsi
+Furnizimi me pajisje speciale për punë per ekipin e mirëmbajtjes së largperçuesve
+Ndërrimi i pjesërishem i llamarinës dhe ventilimi i nyjeve sanitare në repartin e mushkrive
+Servisimi dhe mirëmbajtja e vetures bmw
+Shërbime shtypi, botime dhe shërbime tjera
+Furnizim me kuti druri
+Furnizim me thase per para
+Ftese per tender per plotesimin e nevojave vjetore per furnizim me derivate te naftes
+Ftese per tender per plotesimin e nevojave vjetore per mirembajtje dhe servisim te gjeneratoreve
+Sherbime te mirembajtjes se web faqes se Bankes Ekonomike
+Ftese per tender per plotesimin e nevojave vjetore me orendi per zyre dhe sportele
+Furnizim me Pos terminale
+Hulumtimi Grate ne mediat e shkruara -
+Furnizim me kompresor te ajrit dhe pjesë për kompresor
+Furnizimi It paisje dhe toner
+Rregullili i parqeve dhe gjelbërimit të qytetit
+Asfaltimi i rrugëve në fshatin fatos, korroticë e epërme, komoran iii dhe llapushnik
+Asfaltimi i rrugëve lokale në fshatin baicë, gradicë dhe damanek
+Furnizim me material higjienik
+Vinklimi i elktromotorave të pompave të ujit
+Furnizim me komposterë për menaxhimin e mbeturinave në Komunën e Prizrenit
+Mirëmbajtja e semaforëve , invertorëve dhe pajimeve akustike për të verbërit në qytetin e Prishtinës
+Mirembajtja e modulit te burimeve njerezore, fanancave dhe marketingut
+Furnizim me material shpenzues medicinal
+Furnizim me teleskop dhe pjese per Endoskopi
+Furnizim me kamere dhe insuflator per endoskopi
+Varrimi futja ne dhe si dhe transporti i Placientave nga raparti i Gjinekoligjise
+Furnizim me barrna emergjente
+Transformator dhjetë njëzet  zero.katër kV
+Rregullimi i Kamionit Skanidebllokues
+Hartimi i projektit për shkollen fillore ,,imer krasniqi në fshatin carrallukë
+Ngritja e kapaciteteve menaxheriale dhe profesionale në Shkolla
+Furnizim me material ndërtimorë për familjet skamnore
+Servisimi i automjetev te Qendresë së Studenteve
+Furnizim me kapak te gize
+Aparatur dhe reagenca per analiza kimike te ujit
+Servisimi dhe rregullimi i automjeteve të MeD-së
+Ndërtimi i shkollës fillore Mitrovic
+furnizim me pajisje speciale per pk
+Furnizim me patch teste per alergji
+Sigurimi dhe rexhistrimi i automjeteve
+Furnizim me llaptopa dhe pajisje tjera të Ti
+Furnizim me pajisje te teknologjisë informative
+Asfaltimi i rrugës në fshatin OrçushëK.k. Dragash  L=  m 
+Ndërtimi i objektit të shkollës fillore në fshatin gullboc të komunes së malishevës
+Furnizim me uniforma për stafin shëndetësor të Dshb
+Mbikëqyrja profesionale e projekteve-punimeve gjatë realizimit
+Furnizim me kolektor për rotora
+Fushata promovuese për Efiçiencë të Energjisë dhe Burime të Ripërtëritshme të Energjisë
+Studimi mbi konsumin e energjisë ne sektorin e transportit
+Furnizim me morphine,dopamine,verapamil,diklofenak
+Sherbime kadastrale dhe juridike per bartjen e pronesise se aseteve të kostt
+adaptimi i hapësirës ne hollin e oq te ptk-se sh.a
+Furnizim me material higjienik për institucionet në vartësi të mkrs-së
+Furnizim me produkte farmaceutike nga l.e
+Furnizimi dhe instalimi i airkondicionerve
+Furnizim me material ndërtimor për kanalin e ujitjes në dubravë
+Sigurimi fizik i objektit të arh-së
+Furnizim me disposable tube set
+Zgjerimi i rrjetave me fije optike ne republiken e kosoves
+Furnizimi dhe montimi i agregatit për trainkos sha
+Furnizim me barrna dhe material shpenzues medicional lot-ii
+Realizimi i spoteve dhe reklamave per menagjimin e mbeturinavekomuna prizren
+Furnizim me material per ndricim
+Furnizim me barna dhe material shpenzues medicional Lot-I
+Furnizim me barrna dhe material shpenzues medicinal Lot I
+Plotesimi i nevojave vjetore per mirembajtje te bankomateve
+Blerje te sherbimeve profesionale ne konceptimin dhe realizimin e fushatave mediale dhe marketingut promovues
+Ofrimi i projektit ideore per Mbrojtjen Sanitare të akumulacionit Liqenit Radoniqi
+Blerje e sigurimit shendetesor te punesuarve dhe blerje dhe servisim per fotokopje dhe toner
+Furnizimi me aparata per saldim
+Furnizim me Produkte te Teknologjise Informative, Software te Microsoft-it  Microsoft Enterprise Agreement
+Mirëmbajtja dhe riparimi i ashensoreve ne ndertesat e qytetit te PrishtinesFaza Vi
+Furnizim me substanca kimike për fidanishten në Ipk.
+Ofrimi i shërbimeve të sigurimit fizik të objekteve të Doganës se Kosovës
+Furnizim me pajisje për rehabilitimin e fidanishtes në Ipk.
+Rregullimi i parkingut dhe pune tjera ne d.r. mitrovice- jugu
+Ndërtimi me kubza betoni i rrugëve lokale, sipas Lot një dhe dy
+Furnizim me material higjienik per shkolla ambulanta zjarrfiks administrate etj ne komunen e malisheves
+Mirembajtja dhe rregullimi i fontanave, krojeve dhe monumenteve
+Furnizim me zhileta për mikrotom
+Dezinfektimi dhe deratizimi i objektit te spitalit
+Furnizim me barrna dhe material shpenzues medicinal lot ii
+Furnizim me material zyrtar ri-kuotim
+Mirmbajtja dhe servisimi i automjetit ne impk-gjakove
+Sherbime te rrjetit te internetit
+Vendosja e tabelave me numra nëpër shtëpi në k. e shtimes
+Zhvillimi i softwerit për zgjedhjet e jashtëzakonshme ne mitrovicën e veriut
+Furnizim me makinë fotokopjuese për nevojat e komunës se graçanices
+Furnizim me pjesërezervë për gjenerator
+Vlerësimi i potencialit energjetik te biomasës ne Kosovë
+Furnizimi me dy dy Automjete speciale per bartjen e kufomave ne Dml
+Mirëmbajtja e ndriçimit publik në rrugët e zonave urbane te Komunes se Istogut
+Furnizim me pajisje dhe material për qasje në rrjetë
+Servisimi ,furnizimi dhe mirëmbajtja e automjeteve
+Furnizimi dhe montimi i dyerve ne shkollen Vllezrit frasheri-Ritenderim
+Sanimi i gropave nëpër qytetin e Prishtinës për vitin 
+Servisimi dhe mirembajtja e Ultrazerit Logiq nëntë
+Furnizim me oksigjen dhe oksidull
+Furnizim me loptop
+Pastrimi dhe mirëmbajtja e objekteve te Kk,dka,qkmf ,shk dhe Qps në Skenderaj
+Shërbime të Telefonisë Mobile
+Furnizimi me pjese rezerve për sektorin e ndërtimtarisë
+laboratori i institutit gjeologjik të kosovës
+Mirëmbajtja e aparateve të zjarrefikjes
+Sigurimi i automjeteve dhe Sigurimi shëndetësor i udhëtimit jashtë vendit
+Kampanja sensibilizueseqëndro larg kanalit
+Shërbime te autolarjes së veturave zyrtare të gjkk-së
+Sigurimi i automjeteve për krmunitetish.amitrovicë
+Furnizim me material hixhenik për k.k.deçan shkolla dhe qmfadem ukëhaxhaj në deçan
+furnizim me material shpenzues për kliniken e pulmologjise
+Blerja e pajisjeve të titeknologjisë informativepër akk-në.
+Furnizim dhe montimi i dyerve për shkollënVëllëzërit Frasheri- Lipjan
+Furnizim me pjese rezerv per mrrk
+Mirembajtja vjetore e paisjeve elektronike te sistemeve te sigurimit dhe videovezhgimit
+Furnizim me pajisje teknologjike
+Furnizim me ulese per auditorium
+Blerja e materialit shpenzuesDonacion per Kliniken Gjinekologjike
+furnizim me pjesë rezervë dhe servisim për toyota lancruser
+Blerja e kontejnerëve plastikë
+Furnizim me Kasaforta
+Servisim dhe mirëmbajtje të Gjeneratorëve në Gjykata
+Mirëmbajtjen dhe servisimin e pajisje teknologjike
+Furnizime me stufa dhe paisje tjera
+Furnizimi me derivate të naftes për Kk,dka,qkmf dhe Qps në Skenderaj
+Furnizim me Llaptopë dhe Pc
+Instalim dhe sherbim interneti ne objetet shkollore ne terren
+Transportimi i nxeneseve me nevoje
+Furnizim me nxemsa telor
+Furnizim me lule dhe paisje dekorative
+Furnizim me sprej për damkimin e trungjeve
+Botimi i strategjisë në shkrimin brail
+Sigurimi fizik i objeteve te kurp-se
+Furnizim me lule për nevoja të mkrs-së
+Incizimi në gjuhën e shenjave i strategjisë së planit të veprimit në dvd
+Furnizimi me pajisje teknike dhe material të imtë për nevojat e autoritetit kontraktues
+Lap topa për nevojat programore në rtk
+Karriga për nevojat e rtk-së
+Furnizim me goma te dimrit
+Trajtimi dhe eliminmi i qenëve endacak në komunën e drenasit
+Furnizim me frigorifer me xham tetëqind e pesëdhjetë litra
+Furnizimi me material për zyre për nevojat e komunës se graqanicës
+Furnizim me dru të zjarrit për nevojat e komunës
+furnizim me artikuj ushqimor
+Shtrimi me kubeza betoni nga shkolla Ilaz Thaçi deri te dheu i bardhë
+Rregullimi i kulmit në Fpx në pjesen e përpunimit me prerje
+Furnizim me Frigorifer profesional
+Furnizime me ormana metalik
+Instalimi i gazit medicional në dhomen e kujdesit intenziv të repartit Ortopedik
+Ndërtimi i ambulancave në fsh. Samadrexhë dhe Dubofc
+Ndërtimi i terreneve sportive
+Infrastruktura në fshatin gllobar
+Furnizim me pajisje të Ti
+Furnizimi dhe ngritja e miniserrave për minifermerë
+auditimi i pasqyrave finaciare për vitin bugjetor 
+Furnizim me mjekesore
+Furnizim me inventare te imte per kuzhine
+Furnizim me material zyre
+Bartja e nxenesve nga fshati kaqygeb ne shkollen luigj gurakuqi batllave dhe anasjelltas
+Furnizim me height-adjustable x-ray
+Sigurimi i fizik i objektit te spitalit
+Mirmbajtja e hapsirave te mbrendshme me material te qirskpshtime
+Furnizim me inventar dhe paisje tjera per qirskpshtime
+Riparimi i kulmit,ndrrimi i ullukve,bankinave te dritareve ne qirskpshtime
+Furnizim me shtiza për flamuj
+Shërbimi i internetit për bazë dhe portoarka
+Renovimi i banjove dhe salles ne toskan.
+Furnizim me material për rregullimin e kanalizimit në zborc
+Shërbime përkthimi nga gjuha shqipe,serbe në gjuhen angleze dhe anasjelltas
+Furnizim me material hixhienik
+Furnizim me material harxhues per zyre të kmdk-së
+Furnizim me kanilla metalike
+Furnizim me reduktues te presionit te oksigjenit me lageshtues
+Furnizim me pajisje të ti
+Implementation of Stones that Talk project in Junik Municipality
+Terheqja e automjeteve sipas porosisë shërbime te marimanges
+Bartja e puntorve ne shqiperi
+Pastrimi i deponive te egra në komunën e drenasit
+Mirëmbajtja e aplikacionit: Udhëheqja dhe Mirëmbajtja e Aseteve
+Furnizimi me Printer Fiskal
+Sigurimi i ndërtesës së Kuvendit të Republikës së Kosovës
+Ndriqimi publik i rrugëve në qytet dhe fshatra
+Furnizimi me ujë të pijshëm për nevojat e kuvendit të republikës së kosovës
+Zgjerimi i ndriqimit publike ne Prishtine per vitin 
+Furnizimi dhe instalimi i interfonave me brava elektrike dhe kartela
+Furnizim me pajisje speciale per pkritendrer
+Rregullimi i infrastrukturës për Zonën Ekonomike në Shtime
+Ngjyrosja e hapsirave të caktuara në objektet e spitalit
+Furnizimi me pjese rezerve për gjeneratorët e Vala-s
+Hartimi i projekteve dhe mbikëqyrja e projekteve -punëve gjatë realizimit
+Ndërtimi i kanalizimit fekal nga rruga Ali Ajeti lagjja Rrmoku, Sfishta në qytet
+Sigurimi i autopërgjegjësisë për automjete
+Furnizim me uniformë operacionale
+Programe muzikore per nevojat e rtk-dy
+Furmizim me derivate të naftës për nevojat e komunës së shtërpcës
+Furmizim me material për zyra për komunës së shtërpcës
+furnizim me material harxhues medicinal per nevoja te patologjise
+Shërbime të telefonisë fikse
+Pastrimi i hapsirave te mbrendeshme te objektit te spitalit
+Furnizimi me material për mirëmbajtjen e ndërtesës së komunës
+Furmizim me mjete higjenik dhe byfen e komunës së shtërpcës
+Servisimi i rregullt i automjeteve të doganës së kosovës të tipit volkswagen
+Shërbime për shtypjen e karteleve
+Renovimi i objektit të postës në mitrovicë
+furnizim me shtylla emergjentepër linja të tensionit të lartë
+Furnizim me jogurt per nevoja te menses se qendres se studenteve
+Hartimi i planit komunal për efiqencën e energjisë
+Sigurimi fizik i objekteve të trainkos sha
+Furnizim me ujë te pijshëm për nevoja te mzhe-se
+Furnizimi dhe montimi i pajisjeve për acces control
+Furnizim me material administrativ për kk deçan,shkolla dhe qkmfadem ukëhaxhaj në deçan
+Furnizim me komplete qarshafave për kreveta
+Shtypja e brochures se fundvitit
+servisimi dhe mirembajtja e aparatit fabius gs-ce dhe respiratoreve te tipit drager savina
+Furnizimi me tubacion te ujit Od gjashtëqind e tridhjetë mm
+Furnizimi me mobile për zyre në kuvendin e republikës së kosovës
+Furnizimi dhe mirëmbajtja e vulave
+Servisimi i veturave zyrtare
+Ndërtimi i Stacionit Policor-Faza e dytë në Kllokot
+Shërbime të përkthimit me shkrim, me gojë & shërbime të lektures
+Ndërtimi i shtëpive për të pastrehët
+Ngritja Upgrade e sofwar-it Ris -issa dhe servisimi i aparatures radiologjike
+Betonimi I Kanalit Te Goges
+Pastrimi i objektit- ri tender l
+Larja e rregullit të automjateve zyrtare.
+Furnizimi me fidane molle per fermer ne komunen e skenderajt
+Furnizimi me reagensa për nevojat e qendrës laboratorike-diagnostike
+Organizimi për nder te tetë marsit
+Hartimi i projekteve per nevojat e drejtoris se sherbimeve publikekk prizren 
+Furnizim me material shpezues medicinal per repartin oftalmologjik
+Furnizim me material për pastrim
+sigurimi i automjeteve te mti-së
+Furnizim me kartotekë, laminat dhe paisje përcjellëse për qkmf-në shtime
+Punë shtesë renovimi i fasadës se objektit me punët përcjellëse
+Projektimi i rrjetit te ri per uje te pishem -tcb.
+Furnizim dhe montimi i dyerve bë shkollënVëllëzërit Frasheri- Lipjan
+Realizimi i skulpturave ne rrethrrotullime
+Furnizim Me Komplete Qarshafave Për Kreveta
+Furnizim me material sportiv për shkollat fillore dhe të mesme të kk-malishevë
+Ndertimi i kanalizimit për ujra të zeza në fshatrat Vojnovc dhe Gllavicë
+Sigurimi i automjeteve për të gjitha njësitë e Krm Pastërtia sh.a.-Ferizaj
+Ndërtimi i Shfmu dy Korriku ne Tice
+Sherbime te telefonis mobile dhe internetit
+Asfaltimi i dy  dy  rrugëve lokale
+Shkallët emergjente në objektin e kuvendit të republikës së kosovës
+Furnizim me pjesë për riparimin dhe mirëmbajtjen e traktorëve
+Furnizimi me gypa plastike per transportit te hirit
+Renovimi i objektit te kryqit të kuq
+Furnizim me vaj motorik, lubrifikante të tjera dhe bateri per automjete
+Furnizim me terminale rezerve I Guard
+Riparimi i pjesshëm i Arhivës
+Servisimi dhe furnizimi me pjesë rezervë i pajisjeve të Ti -rishpallje
+Furnizim me revista te huaja dhe vendore për mie
+Furnizim me barna
+Shtypje dizajnim, filmim dhe përkthimi i materialeve të mpms
+Rehabilitimi i rrjetit te ujesjellesit ne rr.fetah gega dhe kadri nesho
+Furnizim me pjesë të automjeteve të pk-së
+Kryerja e shërbimeve-sigurimi i biletave me aviokompani
+Furnizim me material shpenzues-semeringa për dgje-tca
+Furnizim me elektroda dhe tel saldimit
+Furnizim me material standarde shpenzuese-rrypat trapezor
+Tp pesëmbëdhjetë -furnizim me eksploziv dhe mjete eksplozivëve për minierat crnac dhe belo brdo
+Ngritja e njëzet e pesë serrave me participim ne komunen e prizrenit
+Furnizim me farë misiri per subvencionimin e fermereve te komunes se prizrenit
+çmontimi, bartja dhe montimi i invetarit administrativ dhe medicinal
+Shërbimet e skicimit dhe përberja e materialit
+Furnizim me oksigjen dhe azot oksidul për nevoja të Spitalit Rajonal-Mitrovicë
+Furnizim me PoE Switch industrial
+Furnizim me materiale te marketingutVegla EkoEko Gadgets
+Furnizim me pajisje te teknologjise informative Cisco Paisje
+Pajisje per therrtore
+Ndertimi i objekteve te shkolles kpuz
+Furnizim me elemente lidhëse të ruleve
+Licenca të Microsoftit
+Licencë për McAfee Endpoint Protection dhe për Mcafee Web gateway Software
+Furnizim me tropicamide Ritender
+Furnizim me morphine,dopamine,verapamil,diklofenak Ritender
+Asfaltimi i rrugës në fshatin Bllagajë Kk Pejë
+Auditim i mbrendshëm i pergjithshem
+Ndërtimi i qendrës rinore në komunën e gjilanit
+Furnizim me lidhëse të siguris për kuti të votimit
+Furnizim me kuti të votimit
+Furnizim me aparat dhe mulli kafe
+Klima në server room
+Instalimi i rrjetit të kanalizimit fekal në qshp gjakovë
+Servisimi i aparaturave mjeksore ne departamentin e mjekësisë ligjore
+Furnizimi me artikuj ushqimor dhe material higjenik për të gjitha njësitë shpenzuese
+Furnizim me uniforma për nevojat e sherbimit të inspektoratit dhe të tatimit në pronë
+Shërbime-shpallja për emitimin e konferencave dhe lajmeve të mf
+Sigurimi fizik i objekteve te komunes ranillug
+Blerja e automjetitsherbimet mjekesore primare për q.k.m.f. dragash me kilometrazh zero
+blerja e kontentit të iptv nga oe asc tring
+Zgjerimi i rrjetave me fije optike ne republikën e kosovës
+Sanimi i rrugeve lokale-sanimi dhe furnizimi me zhavor
+Rrenimi i objekteve pa leje
+Tp dymbëdhjetë furnizimi i stërvitjet pneumatike hetimeve dhe pajisjet e lidhura shpimit
+Furnizim me bidona uji dhe aparate për ftohjen e ujit
+Furnizim me paisje pasive te rrjetit lan
+Furnizim me pompa elektrike
+Blerja e te drejtes per transmetimin e ndeshjes miqesore nderkombetare ne futboll kosova haiti
+Furnizim me aparate te aklimatizimit dhe montimi i tyre -komuna prizren
+Furnizim me softuer për e-mail server
+Furnizim me reagensa ne laboratorit
+Ndertimi i serave per bujq
+Furnizim me rreshira per demineralizim dhe pastrim kimik te kondenzatitpolishing
+Furnizime me uniforma pune
+Furnizim Gas insulated medium voltage switchgear
+Ndërtimi i kanalizimit fekal në Katunishtë lagjet Kullakët, Igrishtët
+Asfaltimi i rrugëve në Fushë Kosovë
+Furnizim me materjal ndertimor per meremetim te shtepive per raste emergjente
+Transporti i nxënësve me nevoja të veçanta  shtëpishkollështëpi 
+Furnizim me Ups për Server Room
+Servisimi dhe mirëmbajtja e makinave fotokopjuese
+Perkrahja E Blegtoreve Me Makina Mjelese
+Perkrahja E Bletareve Me Shoqeri Bletesh Dhe Paisje
+Furnizim me Oksigjen dhe azot oksidul për nevojat e Spitalit Rajonal-Mitrovicë-Ritender
+Furnizim me shredera, tonera, lapsa
+Furnizim me pjese te ujesjellsit dhe kanalizimit dhe paisje pune
+Transporti i nxenesve ne relacionin kerrnine-rakosh
+Furnizim me material zyrtar
+Furnizim me lop top
+Mirmbajtja e ndriçimit publik ne qytetin e vitise dhe lokalitetet tjera
+Furnizim me pompa zhytse
+Furnizim me ligaclip
+Sherbime per deratizim, dezinfektim dhe dezinsektim objekteve
+Rekonstruimi i rrethrrotullimit në kryqëzim të rr. Mbretresha Teutë dhe rr. Ahmet Selaci.
+Furnizim me Pjese rezerve
+Furnizim me uniforma dhe mjete mbrojtëse në punë
+Furnizimi i institucioneve të komunës së Lipjanit me naftë dhe derivate të naftës
+Furnizim me mobilje per nevoja te zrre-se
+Asfaltimi i rrugës në lagjen muhagjeri me segmente në Qirez
+Restaurimi i objektit shtëpia e xhafer devës, mitrovicë
+Furnizimi i fermerëve me zgjojesandëk të bletëve
+Asfaltimi i rrugës Leqinë-Padalishtë
+Hartimi-Përpilimi i projekteve ideore dhe kryesore detale
+Furnizimi me automjete për nevojat e kuvendit të republikës së kosovës
+Furnizime dhe Sherbime për shkolla me materjal elektrik dhe vegla pune në Skenderaj
+Fasadimi i ndërtesës komunale në qenderDragash ndërtesa te Radio Sharri
+Furnizim me reagensa dhe material harxhues për nevoja te sherbimit te patologjise
+Ndërtimi i kanalizimit në fshatin ShajneK.k. Dragash
+Kubëzimi i rrugës në fshatim VraniqK.k. Dragash
+Furnizimi me pajisje për Brigadën e Zjarrfiksave
+Furnizim i zyrave të ashak-ut me materialë zyrtarë lot i
+Shërbime interneti-lidhja primare
+Ofrimi i shërbimeve për mbrojtje nga rrezatimi për të punësuarit në doganën e kosovës
+Kafe dhe pije për mysafir të komunës
+shërbime interneti-lidhja sekondare
