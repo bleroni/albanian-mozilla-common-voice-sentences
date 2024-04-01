@@ -18,11 +18,11 @@ def save_list_to_file(list_of_strings, file_path):
         for item in list_of_strings:
             file.write(f"{item}\n")
 
-def post_request_to_mozilla(sentence, count):
+def post_request_to_mozilla(sentence, count, source):
     # Define the URL and API endpoint
     url = 'https://commonvoice.mozilla.org/api/v1/sentences'
     headers = get_headers()
-    payload = get_payload(sentence)
+    payload = get_payload(sentence, source)
     response = requests.post(url, headers=headers, json=payload)
     if response.ok:
         print('Response successful:', response.text)
@@ -39,13 +39,13 @@ def post_request_to_mozilla(sentence, count):
             return 'APPLICATION_500_ERROR'    
 
 
-def get_payload(sentence):
+def get_payload(sentence, source):
   payload = {
         "domain": "general",
         "localeId": 71,
         "localeName": "sq",
         "sentence": sentence,
-        "source": ' '  
+        "source": source  
     }
   return payload
 
