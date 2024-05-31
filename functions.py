@@ -40,14 +40,15 @@ def post_request_to_mozilla(sentence, count, source):
 
 
 def get_payload(sentence, source):
-  payload = {
-        "domain": "general",
+    payload = {
+        "domains": ["history_law_government"],  # Use the allowed value for the 'domains' propertyallowedValues': ['general', 'agriculture', 'automotive', 'finance', 'food_service_retail', 'healthcare', 'history_law_government', 'language_fundamentals', 'media_entertainment', 'nature_environment', 'news_current_affairs', 'technology_robotics']
+        "domain": "history_law_government",
         "localeId": 71,
         "localeName": "sq",
         "sentence": sentence,
         "source": source  
     }
-  return payload
+    return payload
 
 def get_headers():
     headers = {
